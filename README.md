@@ -1,5 +1,5 @@
 ```bash
-$ whoami
+who am i
 ```
 
 Hey, I'm **Viraj** — a Machine Learning enthusiast who believes the best way to understand something is to **build it from scratch**.
@@ -7,7 +7,7 @@ Hey, I'm **Viraj** — a Machine Learning enthusiast who believes the best way t
 I work at the intersection of **machine learning, data systems, and scalable software**. My learning approach is deeply hands-on: I implement algorithms from first principles, experiment with real-world datasets, and explore how systems behave beyond what textbooks show.
 
 ```bash
-$ ls ~/interests
+interests
 ```
 
 🧠 **ML Foundations** — Mathematical underpinnings of modern AI: backpropagation, optimization, probability  
